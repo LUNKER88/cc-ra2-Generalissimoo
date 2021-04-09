@@ -1,0 +1,1591 @@
+FinalAlert 2(tm) log file
+----------------------
+
+CFinalSunApp::CFinalSunApp() called
+
+
+
+CLoading::CLoading() called
+CFinalSunDlg::OnInitDialog() called
+Updating menu
+CLoading::Load() called
+
+Initializing FSunPackLib::XCC
+Initializing mix files
+InitMixFiles() called. Available memory: -1160450048
+Loading TibSun.mix success
+Loading local.mix successful
+Loading conquer.mix, temperat.mix, isotemp.mix, isosnow.mix, isourb.mix and cache.mix successful
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd00.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd01.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd02.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd03.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd04.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd05.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd06.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd07.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd08.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd09.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd10.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd11.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd12.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd13.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd14.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd15.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd16.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd17.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd18.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd19.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd20.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd21.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd22.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd23.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd24.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd25.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd26.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd27.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd28.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd29.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd30.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd31.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd32.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd33.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd34.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd35.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd36.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd37.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd38.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd39.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd40.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd41.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd42.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd43.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd44.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd45.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd46.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd47.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd48.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd49.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd50.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd51.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd52.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd53.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd54.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd55.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd56.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd57.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd58.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd59.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd60.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd61.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd62.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd63.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd64.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd65.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd66.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd67.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd68.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd69.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd70.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd71.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd72.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd73.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd74.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd75.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd76.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd77.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd78.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd79.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd80.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd81.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd82.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd83.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd84.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd85.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd86.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd87.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd88.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd89.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd90.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd91.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd92.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd93.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd94.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd95.mix
+C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd95.mix found: loading 
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd96.mix
+C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd96.mix found: loading 
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd97.mix
+C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd97.mix found: loading 
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd98.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd99.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\ra2md.mix
+C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\ra2md.mix found: loading conquer.mix, local.mix, snow.mix, generic.mix, urbann.mix, lunar.mix, desert.mix, isotemp.mix, isosnow.mix, isourb.mix, isoubn.mix, isolun.mix, isodes.mix, isoubn.mix, isolun.mix, isodes.mix, isogen.mix, ecache01md.mix, ubn.mix, lun.mix, des.mix, 
+C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\expandmd95.mix found and loaded
+C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\expandmd96.mix found and loaded
+C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\expandmd97.mix found and loaded
+InitMixFiles() finished. Available memory: -1165647872
+Loading palettes
+
+InitPalettes() called
+
+LoadTSIni(Rules.ini,007EDDD8,0) called
+Rules.ini found 
+LoadTSIni(rulesmd.ini,013A8D44,1) called
+rulesmd.ini found 
+LoadTSIni(Art.ini,007EDCA8,0) called
+Art.ini found 
+LoadTSIni(artmd.ini,013A8D44,1) called
+artmd.ini found 
+LoadTSIni(Tutorial.ini,007ED960,0) called
+Tutorial.ini found 
+LoadTSIni(Sound99.ini,007EDA78,0) called
+LoadTSIni(Sound98.ini,007EDA78,0) called
+LoadTSIni(Sound97.ini,007EDA78,0) called
+LoadTSIni(Sound96.ini,007EDA78,0) called
+LoadTSIni(Sound95.ini,007EDA78,0) called
+LoadTSIni(Sound94.ini,007EDA78,0) called
+LoadTSIni(Sound93.ini,007EDA78,0) called
+LoadTSIni(Sound92.ini,007EDA78,0) called
+LoadTSIni(Sound91.ini,007EDA78,0) called
+LoadTSIni(Sound90.ini,007EDA78,0) called
+LoadTSIni(Sound89.ini,007EDA78,0) called
+LoadTSIni(Sound88.ini,007EDA78,0) called
+LoadTSIni(Sound87.ini,007EDA78,0) called
+LoadTSIni(Sound86.ini,007EDA78,0) called
+LoadTSIni(Sound85.ini,007EDA78,0) called
+LoadTSIni(Sound84.ini,007EDA78,0) called
+LoadTSIni(Sound83.ini,007EDA78,0) called
+LoadTSIni(Sound82.ini,007EDA78,0) called
+LoadTSIni(Sound81.ini,007EDA78,0) called
+LoadTSIni(Sound80.ini,007EDA78,0) called
+LoadTSIni(Sound79.ini,007EDA78,0) called
+LoadTSIni(Sound78.ini,007EDA78,0) called
+LoadTSIni(Sound77.ini,007EDA78,0) called
+LoadTSIni(Sound76.ini,007EDA78,0) called
+LoadTSIni(Sound75.ini,007EDA78,0) called
+LoadTSIni(Sound74.ini,007EDA78,0) called
+LoadTSIni(Sound73.ini,007EDA78,0) called
+LoadTSIni(Sound72.ini,007EDA78,0) called
+LoadTSIni(Sound71.ini,007EDA78,0) called
+LoadTSIni(Sound70.ini,007EDA78,0) called
+LoadTSIni(Sound69.ini,007EDA78,0) called
+LoadTSIni(Sound68.ini,007EDA78,0) called
+LoadTSIni(Sound67.ini,007EDA78,0) called
+LoadTSIni(Sound66.ini,007EDA78,0) called
+LoadTSIni(Sound65.ini,007EDA78,0) called
+LoadTSIni(Sound64.ini,007EDA78,0) called
+LoadTSIni(Sound63.ini,007EDA78,0) called
+LoadTSIni(Sound62.ini,007EDA78,0) called
+LoadTSIni(Sound61.ini,007EDA78,0) called
+LoadTSIni(Sound60.ini,007EDA78,0) called
+LoadTSIni(Sound59.ini,007EDA78,0) called
+LoadTSIni(Sound58.ini,007EDA78,0) called
+LoadTSIni(Sound57.ini,007EDA78,0) called
+LoadTSIni(Sound56.ini,007EDA78,0) called
+LoadTSIni(Sound55.ini,007EDA78,0) called
+LoadTSIni(Sound54.ini,007EDA78,0) called
+LoadTSIni(Sound53.ini,007EDA78,0) called
+LoadTSIni(Sound52.ini,007EDA78,0) called
+LoadTSIni(Sound51.ini,007EDA78,0) called
+LoadTSIni(Sound50.ini,007EDA78,0) called
+LoadTSIni(Sound49.ini,007EDA78,0) called
+LoadTSIni(Sound48.ini,007EDA78,0) called
+LoadTSIni(Sound47.ini,007EDA78,0) called
+LoadTSIni(Sound46.ini,007EDA78,0) called
+LoadTSIni(Sound45.ini,007EDA78,0) called
+LoadTSIni(Sound44.ini,007EDA78,0) called
+LoadTSIni(Sound43.ini,007EDA78,0) called
+LoadTSIni(Sound42.ini,007EDA78,0) called
+LoadTSIni(Sound41.ini,007EDA78,0) called
+LoadTSIni(Sound40.ini,007EDA78,0) called
+LoadTSIni(Sound39.ini,007EDA78,0) called
+LoadTSIni(Sound38.ini,007EDA78,0) called
+LoadTSIni(Sound37.ini,007EDA78,0) called
+LoadTSIni(Sound36.ini,007EDA78,0) called
+LoadTSIni(Sound35.ini,007EDA78,0) called
+LoadTSIni(Sound34.ini,007EDA78,0) called
+LoadTSIni(Sound33.ini,007EDA78,0) called
+LoadTSIni(Sound32.ini,007EDA78,0) called
+LoadTSIni(Sound31.ini,007EDA78,0) called
+LoadTSIni(Sound30.ini,007EDA78,0) called
+LoadTSIni(Sound29.ini,007EDA78,0) called
+LoadTSIni(Sound28.ini,007EDA78,0) called
+LoadTSIni(Sound27.ini,007EDA78,0) called
+LoadTSIni(Sound26.ini,007EDA78,0) called
+LoadTSIni(Sound25.ini,007EDA78,0) called
+LoadTSIni(Sound24.ini,007EDA78,0) called
+LoadTSIni(Sound23.ini,007EDA78,0) called
+LoadTSIni(Sound22.ini,007EDA78,0) called
+LoadTSIni(Sound21.ini,007EDA78,0) called
+LoadTSIni(Sound20.ini,007EDA78,0) called
+LoadTSIni(Sound19.ini,007EDA78,0) called
+LoadTSIni(Sound18.ini,007EDA78,0) called
+LoadTSIni(Sound17.ini,007EDA78,0) called
+LoadTSIni(Sound16.ini,007EDA78,0) called
+LoadTSIni(Sound15.ini,007EDA78,0) called
+LoadTSIni(Sound14.ini,007EDA78,0) called
+LoadTSIni(Sound13.ini,007EDA78,0) called
+LoadTSIni(Sound12.ini,007EDA78,0) called
+LoadTSIni(Sound11.ini,007EDA78,0) called
+LoadTSIni(Sound10.ini,007EDA78,0) called
+LoadTSIni(Sound09.ini,007EDA78,0) called
+LoadTSIni(Sound08.ini,007EDA78,0) called
+LoadTSIni(Sound07.ini,007EDA78,0) called
+LoadTSIni(Sound06.ini,007EDA78,0) called
+LoadTSIni(Sound05.ini,007EDA78,0) called
+LoadTSIni(Sound04.ini,007EDA78,0) called
+LoadTSIni(Sound03.ini,007EDA78,0) called
+LoadTSIni(Sound02.ini,007EDA78,0) called
+LoadTSIni(Sound01.ini,007EDA78,0) called
+LoadTSIni(soundmd.ini,007EDA78,0) called
+soundmd.ini found 
+LoadTSIni(evamd.ini,007ED848,0) called
+evamd.ini found 
+LoadTSIni(thememd.ini,007ED730,0) called
+thememd.ini found 
+LoadTSIni(Ai.ini,007EDB90,0) called
+Ai.ini found 
+LoadTSIni(aimd.ini,007EDB90,1) called
+aimd.ini found 
+LoadTSIni(Temperat.ini,007ED3E8,0) called
+Temperat.ini found 
+LoadTSIni(TemperatMD.ini,007ED3E8,1) called
+TemperatMD.ini found 
+LoadTSIni(Snow.ini,007ED2D0,0) called
+Snow.ini found 
+LoadTSIni(SnowMD.ini,007ED2D0,1) called
+SnowMD.ini found 
+LoadTSIni(Urban.ini,007ED1B8,0) called
+Urban.ini found 
+LoadTSIni(UrbanMD.ini,007ED1B8,1) called
+UrbanMD.ini found 
+LoadTSIni(UrbanNMD.ini,007ED0A0,0) called
+UrbanNMD.ini found 
+LoadTSIni(LunarMD.ini,007ECF88,0) called
+LunarMD.ini found 
+LoadTSIni(DesertMD.ini,007ECE70,0) called
+DesertMD.ini found 
+LoadStrings() executing
+LoadStrings() loading from mix
+
+
+DirectDrawCreate() will be called now
+DirectDrawCreate() successful
+
+Now querying the DirectX 7 or 6 interface
+QueryInterface() successful
+
+Now setting cooperative level
+SetCooperativeLevel() successful
+
+Creating primary surface
+Return code: 0
+CreateSurface() successful
+
+Creating backbuffer surface
+CreateSurface() successful
+
+Now creating clipper
+CreateClipper() successful
+
+Map.LoadMap() will be called
+LoadMap() frees memory
+LoadMap() loads map file
+LoadMap() repairs Taskforces (if needed)
+LoadMap() loads graphics
+CLoading::~CLoading finished. Available memory: -88694784
+InitMixFiles() called. Available memory: -88694784
+Loading TibSun.mix success
+Loading local.mix successful
+Loading conquer.mix, temperat.mix, isotemp.mix, isosnow.mix, isourb.mix and cache.mix successful
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd00.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd01.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd02.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd03.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd04.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd05.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd06.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd07.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd08.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd09.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd10.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd11.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd12.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd13.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd14.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd15.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd16.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd17.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd18.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd19.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd20.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd21.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd22.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd23.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd24.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd25.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd26.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd27.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd28.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd29.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd30.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd31.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd32.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd33.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd34.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd35.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd36.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd37.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd38.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd39.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd40.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd41.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd42.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd43.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd44.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd45.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd46.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd47.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd48.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd49.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd50.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd51.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd52.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd53.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd54.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd55.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd56.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd57.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd58.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd59.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd60.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd61.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd62.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd63.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd64.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd65.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd66.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd67.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd68.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd69.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd70.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd71.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd72.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd73.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd74.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd75.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd76.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd77.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd78.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd79.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd80.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd81.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd82.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd83.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd84.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd85.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd86.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd87.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd88.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd89.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd90.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd91.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd92.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd93.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd94.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd95.mix
+C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd95.mix found: loading 
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd96.mix
+C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd96.mix found: loading 
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd97.mix
+C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd97.mix found: loading 
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd98.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\Expandmd99.mix
+Searching C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\ra2md.mix
+C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\ra2md.mix found: loading conquer.mix, local.mix, snow.mix, generic.mix, urbann.mix, lunar.mix, desert.mix, isotemp.mix, isosnow.mix, isourb.mix, isoubn.mix, isolun.mix, isodes.mix, isoubn.mix, isolun.mix, isodes.mix, isogen.mix, ecache01md.mix, ubn.mix, lun.mix, des.mix, 
+C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\expandmd95.mix found and loaded
+C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\expandmd96.mix found and loaded
+C:\Program Files (x86)\РА2 Генералиссимус на Русском Языке 4.9.3\\expandmd97.mix found and loaded
+InitMixFiles() finished. Available memory: -91889664
+InitPics() called. Available memory: -91889664
+InitTMPs() called. Available memory: 161132544
+blank01a.tem not found
+mslop01a.tem not found
+mslop02a.tem not found
+mslop03a.tem not found
+mslop04a.tem not found
+mslop05a.tem not found
+mslop06a.tem not found
+mslop07a.tem not found
+mslop08a.tem not found
+mslop09a.tem not found
+mslop10a.tem not found
+mslop11a.tem not found
+mslop12a.tem not found
+mslop13a.tem not found
+mslop14a.tem not found
+mslop15a.tem not found
+mslop16a.tem not found
+mslop17a.tem not found
+mslop18a.tem not found
+mslop19a.tem not found
+mslop20a.tem not found
+hyte01a.tem not found
+hyte02a.tem not found
+hyte03a.tem not found
+hyte04a.tem not found
+hyte05a.tem not found
+hyte06a.tem not found
+hyte07a.tem not found
+slope01d.tem not found
+slope02d.tem not found
+slope03d.tem not found
+slope04d.tem not found
+slope05d.tem not found
+slope06d.tem not found
+slope07d.tem not found
+slope08d.tem not found
+slope09d.tem not found
+slope10d.tem not found
+slope11d.tem not found
+slope12d.tem not found
+slope13d.tem not found
+slope14d.tem not found
+slope15d.tem not found
+slope16d.tem not found
+slope17a.tem not found
+slope18a.tem not found
+slope19a.tem not found
+slope20a.tem not found
+Cliff01a.tem not found
+Cliff02a.tem not found
+Cliff03a.tem not found
+Cliff04a.tem not found
+Cliff05a.tem not found
+Cliff06a.tem not found
+Cliff07a.tem not found
+Cliff08a.tem not found
+Cliff09a.tem not found
+Cliff10a.tem not found
+Cliff11a.tem not found
+Cliff12a.tem not found
+Cliff13a.tem not found
+Cliff14a.tem not found
+Cliff15a.tem not found
+Cliff16a.tem not found
+Cliff17a.tem not found
+Cliff18a.tem not found
+Cliff19a.tem not found
+Cliff20a.tem not found
+Cliff21a.tem not found
+Cliff22a.tem not found
+Cliff23a.tem not found
+Cliff24a.tem not found
+Cliff25a.tem not found
+Cliff26a.tem not found
+Cliff27a.tem not found
+Cliff28a.tem not found
+Cliff29a.tem not found
+Cliff30a.tem not found
+Cliff31a.tem not found
+Cliff32a.tem not found
+Cliff33b.tem not found
+Cliff34b.tem not found
+Cliff35a.tem not found
+Cliff36a.tem not found
+Cliff37a.tem not found
+Cliff38a.tem not found
+Cliff39a.tem not found
+Cliff40a.tem not found
+Shore01a.tem not found
+Shore02a.tem not found
+Shore03a.tem not found
+Shore04a.tem not found
+Shore05a.tem not found
+Shore06a.tem not found
+Shore07a.tem not found
+Shore08a.tem not found
+Shore09a.tem not found
+Shore10a.tem not found
+Shore11a.tem not found
+Shore12a.tem not found
+Shore13a.tem not found
+Shore14a.tem not found
+Shore15a.tem not found
+Shore16a.tem not found
+Shore17a.tem not found
+Shore18a.tem not found
+Shore19a.tem not found
+Shore20a.tem not found
+Shore21a.tem not found
+Shore22a.tem not found
+Shore23a.tem not found
+Shore24a.tem not found
+Shore25a.tem not found
+Shore26a.tem not found
+Shore27a.tem not found
+Shore28a.tem not found
+Shore29a.tem not found
+Shore30a.tem not found
+Shore31a.tem not found
+Shore32a.tem not found
+Shore33a.tem not found
+Shore34a.tem not found
+Shore35a.tem not found
+Shore36a.tem not found
+Shore37a.tem not found
+Shore38a.tem not found
+Shore39a.tem not found
+Shore40a.tem not found
+Shore41a.tem not found
+Shore42a.tem not found
+clat01b.tem not found
+clat02b.tem not found
+clat03b.tem not found
+clat04b.tem not found
+clat05b.tem not found
+clat06b.tem not found
+clat07b.tem not found
+clat08b.tem not found
+clat09b.tem not found
+clat10b.tem not found
+clat11b.tem not found
+clat12b.tem not found
+clat13b.tem not found
+clat14b.tem not found
+clat15b.tem not found
+clat16b.tem not found
+WCliff01a.tem not found
+WCliff02a.tem not found
+WCliff03a.tem not found
+WCliff04a.tem not found
+WCliff05a.tem not found
+WCliff06a.tem not found
+WCliff07a.tem not found
+WCliff08a.tem not found
+WCliff09a.tem not found
+WCliff10a.tem not found
+WCliff11a.tem not found
+WCliff12a.tem not found
+WCliff13a.tem not found
+WCliff14a.tem not found
+WCliff15a.tem not found
+WCliff16a.tem not found
+WCliff17a.tem not found
+WCliff18a.tem not found
+WCliff19a.tem not found
+WCliff20a.tem not found
+WCliff21a.tem not found
+WCliff22a.tem not found
+WCliff23a.tem not found
+WCliff24a.tem not found
+WCliff25a.tem not found
+WCliff26a.tem not found
+WCliff27a.tem not found
+WCliff28a.tem not found
+Droadc01a.tem not found
+Droadc02a.tem not found
+Droadc03a.tem not found
+Droadc04a.tem not found
+Droadc05a.tem not found
+Droadc06a.tem not found
+Droadc07a.tem not found
+Droadc08a.tem not found
+Droadc09a.tem not found
+Droadc10a.tem not found
+Droadc11a.tem not found
+Droadc12a.tem not found
+Droadc13a.tem not found
+Droadc14a.tem not found
+Droadc15a.tem not found
+Droadc16a.tem not found
+Droadc17a.tem not found
+Droadc18a.tem not found
+Droadc19a.tem not found
+Droadc20a.tem not found
+Droadc21a.tem not found
+Droadc22a.tem not found
+Droadc23a.tem not found
+Droadc24a.tem not found
+Droadj01a.tem not found
+Droadj02a.tem not found
+Droadj03a.tem not found
+Droadj04a.tem not found
+Droadj05a.tem not found
+Droadj06a.tem not found
+Droadj07a.tem not found
+Droadj08a.tem not found
+Droadj09a.tem not found
+Droadj10a.tem not found
+Droadj11a.tem not found
+Droads01a.tem not found
+Droads02a.tem not found
+Droads03a.tem not found
+Droads04a.tem not found
+Droads05a.tem not found
+Droads06a.tem not found
+Droads07a.tem not found
+Droads08a.tem not found
+Droads09a.tem not found
+Droads10a.tem not found
+Droads11a.tem not found
+Droads12a.tem not found
+Droads13a.tem not found
+Droads14a.tem not found
+Droads15a.tem not found
+Droads16a.tem not found
+Droads17a.tem not found
+Droads18a.tem not found
+Droads19a.tem not found
+Droads20a.tem not found
+Droads21a.tem not found
+Droads22a.tem not found
+Droads23a.tem not found
+Droads24a.tem not found
+Droads25a.tem not found
+Droads26a.tem not found
+Droads27a.tem not found
+Droads28a.tem not found
+Droads29a.tem not found
+Droads30a.tem not found
+Droads31a.tem not found
+Droads32a.tem not found
+Droads33a.tem not found
+Droads34a.tem not found
+Droads35a.tem not found
+Droads36a.tem not found
+Droads37a.tem not found
+Droads38a.tem not found
+Droads39a.tem not found
+Droads40a.tem not found
+Droads41a.tem not found
+Droads42a.tem not found
+Droads43a.tem not found
+Droads44a.tem not found
+Droads45a.tem not found
+Droads46a.tem not found
+Droads47a.tem not found
+Droads48a.tem not found
+Droads49a.tem not found
+Droads50a.tem not found
+Droads51a.tem not found
+Droads52a.tem not found
+Droads53a.tem not found
+Droads54a.tem not found
+Droads55a.tem not found
+Droads56a.tem not found
+Droads57a.tem not found
+Droads58a.tem not found
+Droads59a.tem not found
+Droads60a.tem not found
+Droads61a.tem not found
+Droads62a.tem not found
+Droads63a.tem not found
+Droads64a.tem not found
+Droads65a.tem not found
+Droads66a.tem not found
+Ovrps01b.tem not found
+Ovrps02b.tem not found
+Ovrps03b.tem not found
+Ovrps04b.tem not found
+Ovrps05b.tem not found
+Ovrps06b.tem not found
+Ovrps07a.tem not found
+Ovrps08a.tem not found
+Ovrps09a.tem not found
+Ovrps10a.tem not found
+Ovrps11a.tem not found
+Ovrps12a.tem not found
+Ovrps13a.tem not found
+Ovrps14a.tem not found
+Ovrps15a.tem not found
+Ovrps16a.tem not found
+Proad01d.tem not found
+Proad02d.tem not found
+Proad03a.tem not found
+Proad04a.tem not found
+Proad05a.tem not found
+Proad06a.tem not found
+Proad07a.tem not found
+Proad08a.tem not found
+Proad09a.tem not found
+Proad10a.tem not found
+Proad11a.tem not found
+Proad12a.tem not found
+Proad13a.tem not found
+Proad14a.tem not found
+Proad15a.tem not found
+Proad16a.tem not found
+Proad17a.tem not found
+Proad18a.tem not found
+Proad19a.tem not found
+Proad20a.tem not found
+Proad21a.tem not found
+Water01a.tem not found
+Water02a.tem not found
+Water03a.tem not found
+Water04a.tem not found
+Water05a.tem not found
+Water06a.tem not found
+Water07a.tem not found
+Water08a.tem not found
+Water09a.tem not found
+Water10a.tem not found
+Water11a.tem not found
+Water12a.tem not found
+Water13a.tem not found
+Water14a.tem not found
+Mclif01a.tem not found
+Mclif02a.tem not found
+Mclif03a.tem not found
+Mclif04a.tem not found
+Mclif05a.tem not found
+Mclif06a.tem not found
+Mclif07a.tem not found
+Mclif08a.tem not found
+Mclif09a.tem not found
+Mclif10a.tem not found
+Mclif11a.tem not found
+Mclif12a.tem not found
+Mclif13a.tem not found
+Mclif14a.tem not found
+Mclif15a.tem not found
+Mclif16a.tem not found
+Mclif17a.tem not found
+Mclif18a.tem not found
+Mclif19a.tem not found
+Mclif20a.tem not found
+Mclif21a.tem not found
+Mclif22a.tem not found
+Mclif23a.tem not found
+Mclif24a.tem not found
+Mclif25a.tem not found
+Mclif26a.tem not found
+Mclif27a.tem not found
+Mclif28a.tem not found
+Mclif29a.tem not found
+Mclif30a.tem not found
+Mclif31a.tem not found
+Mclif32a.tem not found
+Mclif33b.tem not found
+Mclif34b.tem not found
+Mclif35a.tem not found
+Mclif36a.tem not found
+Mclif37a.tem not found
+Mclif38a.tem not found
+Mclif39a.tem not found
+Mclif40a.tem not found
+DRSLPE01a.tem not found
+DRSLPE02a.tem not found
+DRSLPE03a.tem not found
+DRSLPE04a.tem not found
+DRSLPE05a.tem not found
+DRSLPE06a.tem not found
+DRSLPE07a.tem not found
+DRSLPE08a.tem not found
+MDRSLP01a.tem not found
+MDRSLP02a.tem not found
+MDRSLP03a.tem not found
+MDRSLP04a.tem not found
+MDRSLP05a.tem not found
+MDRSLP06a.tem not found
+MDRSLP07a.tem not found
+MDRSLP08a.tem not found
+RAMP01a.tem not found
+RAMP02a.tem not found
+RAMP03a.tem not found
+RAMP04a.tem not found
+RAMP05a.tem not found
+RAMP06a.tem not found
+RAMP07a.tem not found
+RAMP08a.tem not found
+RAMP09a.tem not found
+RAMP10a.tem not found
+MRAM01a.tem not found
+MRAM02a.tem not found
+MRAM03a.tem not found
+MRAM04a.tem not found
+MRAM05a.tem not found
+MRAM06a.tem not found
+MRAM07a.tem not found
+MRAM08a.tem not found
+MRAM09a.tem not found
+MRAM10a.tem not found
+hyte01a.tem not found
+hyte02a.tem not found
+hyte03a.tem not found
+hyte04a.tem not found
+hyte05a.tem not found
+hyte06a.tem not found
+hyte07a.tem not found
+hyte08a.tem not found
+hyte09a.tem not found
+hyte10a.tem not found
+W-a-01a.tem not found
+W-a-02a.tem not found
+W-a-03a.tem not found
+W-a-04a.tem not found
+dlat01b.tem not found
+dlat02b.tem not found
+dlat03b.tem not found
+dlat04b.tem not found
+dlat05b.tem not found
+dlat06b.tem not found
+dlat07b.tem not found
+dlat08b.tem not found
+dlat09b.tem not found
+dlat10b.tem not found
+dlat11b.tem not found
+dlat12b.tem not found
+dlat13b.tem not found
+dlat14b.tem not found
+dlat15b.tem not found
+dlat16b.tem not found
+Rough01a.tem not found
+Rough02a.tem not found
+Rough03a.tem not found
+Rough04a.tem not found
+Rough05a.tem not found
+Rough06a.tem not found
+Rough07a.tem not found
+Rough08a.tem not found
+Rough09a.tem not found
+Rough10a.tem not found
+p_end01a.tem not found
+p_end02a.tem not found
+p_end03a.tem not found
+p_end04a.tem not found
+Pave01a.tem not found
+Pave02a.tem not found
+Pave03a.tem not found
+Pave04a.tem not found
+Pave05a.tem not found
+Pave06a.tem not found
+Pave07a.tem not found
+Pave08a.tem not found
+Pave09a.tem not found
+Pave10a.tem not found
+Pave11a.tem not found
+Pave12a.tem not found
+Pave13a.tem not found
+Pave14a.tem not found
+plat01b.tem not found
+plat02b.tem not found
+plat03b.tem not found
+plat04b.tem not found
+plat05b.tem not found
+plat06b.tem not found
+plat07b.tem not found
+plat08b.tem not found
+plat09b.tem not found
+plat10b.tem not found
+plat11b.tem not found
+plat12b.tem not found
+plat13b.tem not found
+plat14b.tem not found
+plat15b.tem not found
+plat16b.tem not found
+proadc01a.tem not found
+proadc02a.tem not found
+proadc03a.tem not found
+proadc04a.tem not found
+proadc05a.tem not found
+proadc06a.tem not found
+proadc07a.tem not found
+proadc08a.tem not found
+proadc09a.tem not found
+proadc10a.tem not found
+proadc11a.tem not found
+proadc12a.tem not found
+proadc13a.tem not found
+proadc14a.tem not found
+glat01b.tem not found
+glat02b.tem not found
+glat03b.tem not found
+glat04b.tem not found
+glat05b.tem not found
+glat06b.tem not found
+glat07b.tem not found
+glat08b.tem not found
+glat09b.tem not found
+glat10b.tem not found
+glat11b.tem not found
+glat12b.tem not found
+glat13b.tem not found
+glat14b.tem not found
+glat15b.tem not found
+glat16b.tem not found
+Rmpfx01d.tem not found
+Rmpfx02d.tem not found
+Rmpfx03d.tem not found
+Rmpfx04d.tem not found
+Rmpfx05d.tem not found
+Rmpfx06d.tem not found
+Rmpfx07d.tem not found
+Rmpfx08d.tem not found
+Rmpfx09d.tem not found
+Rmpfx10d.tem not found
+Rmpfx11d.tem not found
+Rmpfx12d.tem not found
+Mrmfx01a.tem not found
+Mrmfx02a.tem not found
+Mrmfx03a.tem not found
+Mrmfx04a.tem not found
+Mrmfx05a.tem not found
+Mrmfx06a.tem not found
+Mrmfx07a.tem not found
+Mrmfx08a.tem not found
+Mrmfx09a.tem not found
+Mrmfx10a.tem not found
+Mrmfx11a.tem not found
+Mrmfx12a.tem not found
+Prslpe01a.tem not found
+Prslpe02a.tem not found
+Prslpe03a.tem not found
+Prslpe04a.tem not found
+W-b-01a.tem not found
+W-b-02a.tem not found
+W-b-03a.tem not found
+W-b-04a.tem not found
+W-c-01a.tem not found
+W-c-02a.tem not found
+W-c-03a.tem not found
+W-c-04a.tem not found
+W-d-01a.tem not found
+W-d-02a.tem not found
+W-d-03a.tem not found
+W-d-04a.tem not found
+hyte01a.tem not found
+hyte02a.tem not found
+hyte03a.tem not found
+hyte04a.tem not found
+hyte05a.tem not found
+hyte06a.tem not found
+hyte07a.tem not found
+hyte08a.tem not found
+hyte09a.tem not found
+hyte10a.tem not found
+hyte11a.tem not found
+hyte12a.tem not found
+hyte13a.tem not found
+hyte14a.tem not found
+hyte15a.tem not found
+tunnel01a.tem not found
+tunnel02a.tem not found
+tunnel03a.tem not found
+tunnel04a.tem not found
+tunnex01a.tem not found
+tunnex02a.tem not found
+dcliff01a.tem not found
+dcliff02a.tem not found
+Wcave01a.tem not found
+Wcave02a.tem not found
+Wcave03a.tem not found
+Wcave04a.tem not found
+MDrodc01a.tem not found
+MDrodc02a.tem not found
+MDrodc03a.tem not found
+MDrodc04a.tem not found
+MDrodc05a.tem not found
+MDrodc06a.tem not found
+MDrodc07a.tem not found
+MDrodc08a.tem not found
+MDrodc09a.tem not found
+MDrodc10a.tem not found
+MDrodc11a.tem not found
+MDrodc12a.tem not found
+MDrodc13a.tem not found
+MDrodc14a.tem not found
+MDrodc15a.tem not found
+MDrodc16a.tem not found
+MDrodc17a.tem not found
+MDrodc18a.tem not found
+MDrodc19a.tem not found
+MDrodc20a.tem not found
+MDrodc21a.tem not found
+MDrodc22a.tem not found
+MDrodc23a.tem not found
+MDrodc24a.tem not found
+MDrodj01a.tem not found
+MDrodj02a.tem not found
+MDrodj03a.tem not found
+MDrodj04a.tem not found
+MDrodj05a.tem not found
+MDrodj06a.tem not found
+MDrodj07a.tem not found
+MDrodj08a.tem not found
+MDrodj09a.tem not found
+MDrodj10a.tem not found
+MDrodj11a.tem not found
+MDrods01a.tem not found
+MDrods02a.tem not found
+MDrods03a.tem not found
+MDrods04a.tem not found
+MDrods05a.tem not found
+MDrods06a.tem not found
+MDrods07a.tem not found
+MDrods08a.tem not found
+MDrods09a.tem not found
+MDrods10a.tem not found
+MDrods11a.tem not found
+MDrods12a.tem not found
+MDrods13a.tem not found
+MDrods14a.tem not found
+MDrods15a.tem not found
+MDrods16a.tem not found
+MDrods17a.tem not found
+MDrods18a.tem not found
+MDrods19a.tem not found
+MDrods20a.tem not found
+MDrods21a.tem not found
+MDrods22a.tem not found
+MDrods23a.tem not found
+MDrods24a.tem not found
+MDrods25a.tem not found
+MDrods26a.tem not found
+MDrods27a.tem not found
+MDrods28a.tem not found
+MDrods29a.tem not found
+MDrods30a.tem not found
+MDrods31a.tem not found
+MDrods32a.tem not found
+MDrods33a.tem not found
+MDrods34a.tem not found
+MDrods35a.tem not found
+MDrods36a.tem not found
+MDrods37a.tem not found
+MDrods38a.tem not found
+MDrods39a.tem not found
+MDrods40a.tem not found
+MDrods41a.tem not found
+MDrods42a.tem not found
+MDrods43a.tem not found
+MDrods44a.tem not found
+MDrods45a.tem not found
+MDrods46a.tem not found
+MDrods47a.tem not found
+MDrods48a.tem not found
+MDrods49a.tem not found
+MDrods50a.tem not found
+MDrods51a.tem not found
+MDrods52a.tem not found
+MDrods53a.tem not found
+MDrods54a.tem not found
+MDrods55a.tem not found
+MDrods56a.tem not found
+MDrods57a.tem not found
+MDrods58a.tem not found
+MDrods59a.tem not found
+MDrods60a.tem not found
+MDrods61a.tem not found
+MDrods62a.tem not found
+MDrods63a.tem not found
+MDrods64a.tem not found
+MDrods65a.tem not found
+MDrods66a.tem not found
+MShore01a.tem not found
+MShore02a.tem not found
+MShore03a.tem not found
+MShore04a.tem not found
+MShore05a.tem not found
+MShore06a.tem not found
+MShore07a.tem not found
+MShore08a.tem not found
+MShore09a.tem not found
+MShore10a.tem not found
+MShore11a.tem not found
+MShore12a.tem not found
+MShore13a.tem not found
+MShore14a.tem not found
+MShore15a.tem not found
+MShore16a.tem not found
+MShore17a.tem not found
+MShore18a.tem not found
+MShore19a.tem not found
+MShore20a.tem not found
+MShore21a.tem not found
+MShore22a.tem not found
+MShore23a.tem not found
+MShore24a.tem not found
+MShore25a.tem not found
+MShore26a.tem not found
+MShore27a.tem not found
+MShore28a.tem not found
+MShore29a.tem not found
+MShore30a.tem not found
+MShore31a.tem not found
+MShore32a.tem not found
+MShore33a.tem not found
+MShore34a.tem not found
+MShore35a.tem not found
+MShore36a.tem not found
+MShore37a.tem not found
+MShore38a.tem not found
+MShore39a.tem not found
+MShore40a.tem not found
+MShore41a.tem not found
+MShore42a.tem not found
+MWa-01a.tem not found
+MWa-02a.tem not found
+MWa-03a.tem not found
+MWa-04a.tem not found
+MWb-01a.tem not found
+MWb-02a.tem not found
+MWb-03a.tem not found
+MWb-04a.tem not found
+MWc-01a.tem not found
+MWc-02a.tem not found
+MWc-03a.tem not found
+MWc-04a.tem not found
+MWd-01a.tem not found
+MWd-02a.tem not found
+MWd-03a.tem not found
+MWd-04a.tem not found
+MWcave01a.tem not found
+MWcave02a.tem not found
+MWcave03a.tem not found
+MWcave04a.tem not found
+MWClif01a.tem not found
+MWClif02a.tem not found
+MWClif03a.tem not found
+MWClif04a.tem not found
+MWClif05a.tem not found
+MWClif06a.tem not found
+MWClif07a.tem not found
+MWClif08a.tem not found
+MWClif09a.tem not found
+MWClif10a.tem not found
+MWClif11a.tem not found
+MWClif12a.tem not found
+MWClif13a.tem not found
+MWClif14a.tem not found
+MWClif15a.tem not found
+MWClif16a.tem not found
+MWClif17a.tem not found
+MWClif18a.tem not found
+MWClif19a.tem not found
+MWClif20a.tem not found
+MWClif21a.tem not found
+MWClif22a.tem not found
+MWClif23a.tem not found
+MWClif24a.tem not found
+MWClif25a.tem not found
+MWClif26a.tem not found
+MWClif27a.tem not found
+MWClif28a.tem not found
+MWater01a.tem not found
+MWater02a.tem not found
+MWater03a.tem not found
+MWater04a.tem not found
+MWater05a.tem not found
+MWater06a.tem not found
+MWater07a.tem not found
+MWater08a.tem not found
+MWater09a.tem not found
+MWater10a.tem not found
+MWater11a.tem not found
+MWater12a.tem not found
+MWater13a.tem not found
+MWater14a.tem not found
+dtunn01a.tem not found
+dtunn02a.tem not found
+dtunn03a.tem not found
+dtunn04a.tem not found
+glat01b.tem not found
+glat02b.tem not found
+glat03b.tem not found
+glat04b.tem not found
+glat05b.tem not found
+glat06b.tem not found
+glat07b.tem not found
+glat08b.tem not found
+glat09b.tem not found
+glat10b.tem not found
+glat11b.tem not found
+glat12b.tem not found
+glat13b.tem not found
+glat14b.tem not found
+glat15b.tem not found
+glat16b.tem not found
+wbrdge01a.tem not found
+wbrdge02a.tem not found
+farm01a.tem not found
+farm02a.tem not found
+farm03a.tem not found
+farm04a.tem not found
+farm05a.tem not found
+farm06a.tem not found
+farm07a.tem not found
+farm08a.tem not found
+mobil01a.tem not found
+mobil02a.tem not found
+mex01a.tem not found
+mex02a.tem not found
+mex03a.tem not found
+mex04a.tem not found
+mex05a.tem not found
+Ovrpsb01b.tem not found
+Ovrpsb02b.tem not found
+Ovrpsb03b.tem not found
+Ovrpsb04b.tem not found
+Ovrpsb05b.tem not found
+Ovrpsb06b.tem not found
+Ovrpsb07a.tem not found
+Ovrpsb08a.tem not found
+Ovrpsb09a.tem not found
+Ovrpsb10a.tem not found
+Ovrpsb11a.tem not found
+Ovrpsb12a.tem not found
+Ovrpsb13a.tem not found
+Ovrpsb14a.tem not found
+Ovrpsb15a.tem not found
+Ovrpsb16a.tem not found
+ariz01a.tem not found
+pshore01a.tem not found
+pshore02a.tem not found
+pshore03a.tem not found
+pshore04a.tem not found
+pshore05a.tem not found
+pshore06a.tem not found
+pshore07a.tem not found
+pshore08a.tem not found
+pshora01a.tem not found
+pshora02a.tem not found
+pshora03a.tem not found
+pshora04a.tem not found
+mtnnl01a.tem not found
+mtnnl02a.tem not found
+mtnnl03a.tem not found
+mtnnl04a.tem not found
+mtnnx01a.tem not found
+mtnnx02a.tem not found
+Tslope01a.tem not found
+Tslope02a.tem not found
+Tslope03a.tem not found
+Tslope04a.tem not found
+dtunnt01a.tem not found
+dtunnt02a.tem not found
+dtunnt03a.tem not found
+dtunnt04a.tem not found
+trcros01a.tem not found
+trcros02a.tem not found
+trcros03a.tem not found
+trcros04a.tem not found
+trcros05a.tem not found
+trcros06a.tem not found
+ralcrs01a.tem not found
+ralcrs02a.tem not found
+ralcrs03a.tem not found
+ralcrs04a.tem not found
+ralcrs05a.tem not found
+ralcrs06a.tem not found
+ralcrs07a.tem not found
+ralcrs08a.tem not found
+ralcrs09a.tem not found
+ralcrs10a.tem not found
+ralcrs11a.tem not found
+ralcrs12a.tem not found
+switch01a.tem not found
+switch02a.tem not found
+switch03a.tem not found
+switch04a.tem not found
+switch05a.tem not found
+switch06a.tem not found
+switch07a.tem not found
+switch08a.tem not found
+switch09a.tem not found
+switch10a.tem not found
+switch11a.tem not found
+switch12a.tem not found
+switch13a.tem not found
+switch14a.tem not found
+switch15a.tem not found
+switch16a.tem not found
+switch17a.tem not found
+switch18a.tem not found
+switch19a.tem not found
+switch20a.tem not found
+switch21a.tem not found
+switch22a.tem not found
+switch23a.tem not found
+switch24a.tem not found
+switch25a.tem not found
+switch26a.tem not found
+switch27a.tem not found
+switch28a.tem not found
+switch29a.tem not found
+switch30a.tem not found
+switch31a.tem not found
+switch32a.tem not found
+switch33a.tem not found
+switch34a.tem not found
+switch35a.tem not found
+switch36a.tem not found
+switch37a.tem not found
+switch38a.tem not found
+switch39a.tem not found
+switch40a.tem not found
+switch41a.tem not found
+switch42a.tem not found
+switch43a.tem not found
+switch44a.tem not found
+switch45a.tem not found
+switch46a.tem not found
+switch47a.tem not found
+switch48a.tem not found
+mwtnnl01a.tem not found
+mwtnnl02a.tem not found
+mwtnnl03a.tem not found
+mwtnnl04a.tem not found
+wtunnl01a.tem not found
+wtunnl02a.tem not found
+wtunnl03a.tem not found
+wtunnl04a.tem not found
+wtunnl05a.tem not found
+wtunnl06a.tem not found
+wtunnl07a.tem not found
+wtunnl08a.tem not found
+wtunnl09a.tem not found
+wtunnl10a.tem not found
+wtunnl11a.tem not found
+wtunnl12a.tem not found
+wtunnl13a.tem not found
+wtunnl14a.tem not found
+wtunnl15a.tem not found
+wtunnl16a.tem not found
+wtunnl17a.tem not found
+wtunnl18a.tem not found
+wtunnl19a.tem not found
+wtunnl20a.tem not found
+wtunnl21a.tem not found
+wtunnl22a.tem not found
+wtunnl23a.tem not found
+wtunnl24a.tem not found
+wtunnl25a.tem not found
+wtunnl26a.tem not found
+wtunnl27a.tem not found
+wtunnl28a.tem not found
+wtunnl29a.tem not found
+wtunnl30a.tem not found
+wtunnl31a.tem not found
+wtunnl32a.tem not found
+wtunnl33a.tem not found
+wtunnl34a.tem not found
+wtunnl35a.tem not found
+wtunnl36a.tem not found
+wtunnl37a.tem not found
+wtunnl38a.tem not found
+wtunnl39a.tem not found
+wtunnl40a.tem not found
+wtunnl41a.tem not found
+wtunnl42a.tem not found
+wtunnl43a.tem not found
+wtunnl44a.tem not found
+wtunnl45a.tem not found
+wtunnl46a.tem not found
+wtunnl47a.tem not found
+wtunnl48a.tem not found
+wtunnl49a.tem not found
+wtunnl50a.tem not found
+wtunnl51a.tem not found
+wtunnl52a.tem not found
+wtunnl53a.tem not found
+wtunnl54a.tem not found
+wtunnl55a.tem not found
+wtunnl56a.tem not found
+wtunnl57a.tem not found
+wtunnl58a.tem not found
+wtunnl59a.tem not found
+wtunnl60a.tem not found
+wtunnl61a.tem not found
+wtunnl62a.tem not found
+wtunnl63a.tem not found
+wtunnl64a.tem not found
+wtunnl65a.tem not found
+wtunnl66a.tem not found
+wtunnl67a.tem not found
+wtunnl68a.tem not found
+wtunnl69a.tem not found
+wtunnl70a.tem not found
+wtunnl71a.tem not found
+wtunnl72a.tem not found
+plat01b.tem not found
+plat02b.tem not found
+plat03b.tem not found
+plat04b.tem not found
+plat05b.tem not found
+plat06b.tem not found
+plat07b.tem not found
+plat08b.tem not found
+plat09b.tem not found
+plat10b.tem not found
+plat11b.tem not found
+plat12b.tem not found
+plat13b.tem not found
+plat14b.tem not found
+plat15b.tem not found
+plat16b.tem not found
+Wcavee01a.tem not found
+Wcavee02a.tem not found
+Wcavee03a.tem not found
+Wcavee04a.tem not found
+MWcavd01a.tem not found
+MWcavd02a.tem not found
+MWcavd03a.tem not found
+MWcavd04a.tem not found
+grdrl01a.tem not found
+grdrl02a.tem not found
+grdrl03a.tem not found
+grdrl04a.tem not found
+grdrl05a.tem not found
+grdrl06a.tem not found
+grdrl07a.tem not found
+grdrl08a.tem not found
+grdrl09c.tem not found
+grdrl10c.tem not found
+btrack01a.tem not found
+btrack02a.tem not found
+btrack03a.tem not found
+btrack04a.tem not found
+btrack05a.tem not found
+btrack06a.tem not found
+btrack07a.tem not found
+btrack08a.tem not found
+btrack09a.tem not found
+btrack10d.tem not found
+btrack11d.tem not found
+btrack12d.tem not found
+btrack13d.tem not found
+btrack14d.tem not found
+btrack15d.tem not found
+wtunxd01a.tem not found
+wtunxd02a.tem not found
+mbtrack01a.tem not found
+mbtrack02a.tem not found
+mbtrack03a.tem not found
+mbtrack04a.tem not found
+mbtrack05a.tem not found
+mbtrack06a.tem not found
+mbtrack07a.tem not found
+mbtrack08a.tem not found
+mbtrack09a.tem not found
+mbtrack10a.tem not found
+mbtrack11a.tem not found
+mbtrack12a.tem not found
+mbtrack13a.tem not found
+mbtrack14a.tem not found
+mbtrack15a.tem not found
+mwtnnx01a.tem not found
+mwtnnx02a.tem not found
+phelad01a.tem not found
+phelad02a.tem not found
+dcliff01a.tem not found
+dcliff02a.tem not found
+Tovrps01b.tem not found
+Tovrps02b.tem not found
+Tovrps03b.tem not found
+Tovrps04b.tem not found
+Tovrps05b.tem not found
+Tovrps06b.tem not found
+Tovrps07a.tem not found
+Tovrps08a.tem not found
+Tovrps09a.tem not found
+Tovrps10a.tem not found
+Tovrps11a.tem not found
+Tovrps12a.tem not found
+Tovrps13a.tem not found
+Tovrps14a.tem not found
+Tovrps15a.tem not found
+Tovrps16a.tem not found
+LoadMap() allocates fielddata
+LoadMap() unpacks data
+LoadMap() updates from ini
+240 128
+240 129
+240 130
+240 131
+240 132
+240 133
+240 134
+241 122
+241 123
+241 124
+241 125
+241 126
+241 127
+241 128
+241 129
+241 130
+241 131
+241 132
+241 133
+242 123
+242 124
+242 125
+242 126
+242 127
+242 128
+242 129
+242 130
+242 131
+242 132
+243 124
+243 125
+243 126
+243 127
+243 128
+243 129
+243 130
+243 131
+244 125
+244 126
+244 127
+244 128
+244 129
+244 130
+245 126
+245 127
+245 128
+245 129
+246 127
+246 128
+Loading: ALL
+Loading: TREE19
+Loading: TIBTRE01
+Loading: TREE20
+Loading: TREE13
+Loading: TREE22
+Loading: TREE17
+Loading: TREE24
+Loading: TREE21
+Loading: TREE23
+Loading: TIBTRE02
+Loading: TREE14
+Loading: TREE10
+Loading: TREE08
+Loading: TREE02
+Loading: TREE05
+Loading: TREE16
+Loading: CATHOSP
+SaveMap() called
+Calling UpdateIniFile()
+UpdateMapFieldData() called
+Memory allocated for mappack, saving fielddata into mapfields
+About to call Pack()
+Erasing sections
+Creating Digest
+Values allocated. Pointer: 394780600
+Packing overlay
+Saving overlay
+Pack overlaydata
+Format80
+Base64
+Overlaydata done
+Pack isomappack
+done
+hexdata size: 173745
+Now converting to base64done
+finished copying into inifile
+Saving minimap
+CLoading::~CLoading finished. Available memory: 823832576
