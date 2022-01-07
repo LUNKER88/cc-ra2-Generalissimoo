@@ -4,4 +4,4 @@
 
 https://vk.com/ccra2generalissimo
 
-https://www.moddb.com/mods/cc-red-alert-2-generalissimo
+https://www.youtube.com/channel/UCA5ECvndf5w8jfTec8RX_gA
